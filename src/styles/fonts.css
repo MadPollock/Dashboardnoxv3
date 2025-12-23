@@ -1,0 +1,11 @@
+/**
+ * Crossramp Typography
+ * Manrope: Rounded, friendly, contemporary - for headings and numbers
+ * Geist: Neutral, modern, readable - for body text
+ */
+
+/* Manrope - Headings & Key Numbers */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+
+/* Geist - Body Text */
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap');
